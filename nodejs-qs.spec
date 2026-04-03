@@ -2,7 +2,7 @@
 Summary:	Querystring parser
 Name:		nodejs-%{pkg}
 Version:	0.6.6
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
